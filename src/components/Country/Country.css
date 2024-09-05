@@ -1,0 +1,13 @@
+.country{
+    border: 2px solid greenyellow;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 16px;
+}
+
+.visited{
+    background-color: aliceblue;
+}
+.non-visited{
+    background-color: lightyellow;
+}
